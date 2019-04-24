@@ -1,0 +1,4 @@
+S->S|XS|dS|#
+X->Y|Zb|aY
+Y->cZ
+Z->e
